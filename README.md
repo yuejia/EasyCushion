@@ -1,6 +1,9 @@
 # EasyCushion
 Multi-objective search for the PC discussion order problem
 
+# Download Binary
+http://www0.cs.ucl.ac.uk/staff/Y.Jia/resources/tools/EasyCushion.zip
+
 #Usage. 
 
 1. Login to EasyChair.
