@@ -12,3 +12,6 @@ Multi-objective search for the PC discussion order problem
 6. Launch the EasyCushion -> Load EC Data -> select the easy chair folder
 7. After loading data, select Search Discussion Order and wait for 3 - 5 mins
 8. After searching, navigate the solutions on the pareto front and select any solution from pareto front and select save (the output file, SBSE_DiscussionOrder.txt, is in the EC folder)
+
+- Select unlock to move around
+- Select lock to lock the screen and to select solutions 
